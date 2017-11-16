@@ -11,3 +11,7 @@
 	font-weight: bolder;
 	text-align: center;
 }
+.box3 {
+	color: red;
+	border: 1px solid green;
+}
