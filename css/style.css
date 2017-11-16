@@ -2,3 +2,7 @@
 	background-color: red;
 	font-size: 24px;
 }
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+}
